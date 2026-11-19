@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/karanchoudhary7678/LeetCode/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/karanchoudhary7678/LeetCode/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [3364-minimum-positive-sum-subarray](https://github.com/karanchoudhary7678/LeetCode/tree/master/3364-minimum-positive-sum-subarray) |
 | [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/karanchoudhary7678/LeetCode/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 ## Stack
@@ -62,4 +63,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/karanchoudhary7678/LeetCode/tree/master/2911-minimum-changes-to-make-k-semi-palindromes) |
+## Greedy
+|  |
+| ------- |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/karanchoudhary7678/LeetCode/tree/master/2567-minimum-score-by-changing-two-elements) |
+## Sorting
+|  |
+| ------- |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/karanchoudhary7678/LeetCode/tree/master/2567-minimum-score-by-changing-two-elements) |
 <!---LeetCode Topics End-->
